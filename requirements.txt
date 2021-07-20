@@ -1,0 +1,2 @@
+behave==1.2.6
+behave-restful==0.4.1
